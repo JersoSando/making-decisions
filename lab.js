@@ -152,6 +152,8 @@ if (changeMyMind === true){
 
 //CODE HERE
 
+changeMyMind = !changeMyMind
+console.log(changeMyMind);
 
 
 ////////// ADVANCED PROBLEMS //////////
